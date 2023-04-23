@@ -1,2 +1,2 @@
 # HTML
-Ini adalah file latihan HTML saya
+Ini adalah file-file latihan HTML saya
